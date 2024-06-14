@@ -1,0 +1,6 @@
+__pycache__/
+.env
+app/db/
+.ipynb_checkpoints
+.ipynb
+.venv/
